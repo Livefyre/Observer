@@ -1,4 +1,1 @@
-event-emitter
-=============
-
-Make evented Objects in JavaScript
+http://wiki.teamliquid.net/starcraft/images2/d/d3/Observer.png
