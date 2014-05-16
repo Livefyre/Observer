@@ -1,6 +1,6 @@
 {
-  "name": "event-emitter",
-  "description": "An object that emits events",
+  "name": "observer",
+  "description": "Beep boop",
   "author": "Livefyre <support@livefyre.com>",
   "contributors": {
     "name": "Benjamin Goering",
