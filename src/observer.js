@@ -8,6 +8,7 @@ define(function() {
      * @exports streamhub-sdk/observer
      */
     function Observer(that) {
+        that = that || {};
         that._listeningTo = {};
         that.listenTo = listenTo;
         that.stopListening = stopListening;
